@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Connor!</h1>
-<h3 align="center">A passionate fullstack developer from Minneapolis</h3>
+<h3 align="center">Passionate developer from Minneapolis dedicated to solving problems with people for people while improving the world and myself. </h3>
 
 - I’m currently working on [Pokemon Team Builder](https://github.com/C0N50/pokemon_teambuilder)
 
