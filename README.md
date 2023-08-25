@@ -3,7 +3,7 @@
 
 - I’m currently working on [Pokemon Team Builder](https://github.com/C0N50/pokemon_teambuilder) & StoryForge
 
-- I’m currently learning **C#,.NET**
+- I’m currently learning **C#,.NET,Next.js,Tailwind**
 
 - Ask me about **React, CSS, Material UI**
 
